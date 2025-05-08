@@ -1,13 +1,13 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Flashcard Review Activity</title>
-  <link rel="stylesheet" href="look.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1 class="page-title"> History Review Flashcards </h1>
+  <h1 class="page-title">🌟 History Review Flashcards 🌟</h1>
 
   <div class="cards-container">
     <div class="card">
